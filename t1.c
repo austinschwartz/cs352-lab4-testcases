@@ -1,5 +1,4 @@
 long main() 
 {
-  long x;
-  x = y;
+  x = 3;
 }

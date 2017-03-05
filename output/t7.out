@@ -1,8 +1,8 @@
 ----------
  Errors/Warnings: 1 
 ----------
-0 : Break not in loop
-1 : Continue not in loop
+1 : Break not in loop
+0 : Continue not in loop
 0 : Returning value in void function
 0 : Incompatible return type
 0 : Incompatible type assigning
