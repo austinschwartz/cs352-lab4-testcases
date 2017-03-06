@@ -1,6 +1,6 @@
 long main() {
   char* x;
-  x = "dog";
   long g;
+  x = "dog";
   g = x + 5;
 }

@@ -1,9 +1,8 @@
 long main() {
   char a;
-  a = 'k';
   char* f;
-  f = &a;
-
   long m;
+  a = 'k';
+  f = &a;
   m = f;
 }

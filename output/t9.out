@@ -1,6 +1,7 @@
 ----------
  Errors/Warnings: 1 
 ----------
+0 : Code can't precede declarations
 0 : Break not in loop
 1 : Continue not in loop
 0 : Returning value in void function
