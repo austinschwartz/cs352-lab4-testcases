@@ -1,5 +1,5 @@
 ----------
- Errors/Warnings: 0 
+ Errors/Warnings: 1 
 ----------
 0 : Code can't precede declarations
 0 : Break not in loop
@@ -14,7 +14,7 @@
 0 : Divide by zero
 0 : Invalid unary operation
 0 : Invalid operands to binary operator
-0 : Function redefinition
+0 : Variable/Function Redeclaration
 0 : Incompatible function argument types
 1 : Too few function arguments
 0 : Too many function arguments

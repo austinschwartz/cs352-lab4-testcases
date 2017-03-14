@@ -1,7 +1,7 @@
 ----------
  Errors/Warnings: 1 
 ----------
-0 : Code can't precede declarations
+1 : Code can't precede declarations
 0 : Break not in loop
 0 : Continue not in loop
 0 : Returning value in void function
@@ -9,7 +9,7 @@
 0 : Incompatible type assigning
 0 : Assigning to an undeclared variable
 0 : Non-Integer array subscript
-1 : Assigning pointer to integer
+0 : Assigning pointer to integer
 0 : Undeclared Variable in expression
 0 : Divide by zero
 0 : Invalid unary operation

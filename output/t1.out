@@ -7,14 +7,14 @@
 0 : Returning value in void function
 0 : Incompatible return type
 0 : Incompatible type assigning
-0 : Assigning to an undeclared variable
+1 : Assigning to an undeclared variable
 0 : Non-Integer array subscript
 0 : Assigning pointer to integer
-1 : Undeclared Variable in expression
+0 : Undeclared Variable in expression
 0 : Divide by zero
 0 : Invalid unary operation
 0 : Invalid operands to binary operator
-0 : Function redefinition
+0 : Variable/Function Redeclaration
 0 : Incompatible function argument types
 0 : Too few function arguments
 0 : Too many function arguments
